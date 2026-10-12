@@ -7,11 +7,7 @@
 - [3D models (PLY and GLB)](https://github.com/Xpx00/Dawenkou-Digitization-41/releases/download/v1.0.0/models.zip)
 - [Images, masks and camera data](https://github.com/Xpx00/Dawenkou-Digitization-41/releases/download/v1.0.0/multiview.zip)
 
-Download both archives and extract them into the same directory, or run:
-
-```bash
-python3 download.py
-```
+Download both archives and extract them into the same directory.
 
 ## Structure
 
