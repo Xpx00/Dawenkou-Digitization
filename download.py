@@ -6,7 +6,7 @@ import urllib.request
 import zipfile
 
 BASE = "https://github.com/Xpx00/Dawenkou-Digitization-41/releases/download/v1.0.0/"
-FILES = {'dawenkou41-models-v1.0.0.zip': 'e0a9ffbecfdf90ff0e3253042c4bf866e4afadf7cab95d5b3e0820570295541e', 'dawenkou41-multiview-v1.0.0.zip': '21d1540b2d6579e5f62b9a7ddd0e41e58fd8fd6c6ad17ae59c28c55f4e1a6f5a'}
+FILES = {'models.zip': 'e0a9ffbecfdf90ff0e3253042c4bf866e4afadf7cab95d5b3e0820570295541e', 'multiview.zip': '21d1540b2d6579e5f62b9a7ddd0e41e58fd8fd6c6ad17ae59c28c55f4e1a6f5a'}
 
 
 def digest(path):
