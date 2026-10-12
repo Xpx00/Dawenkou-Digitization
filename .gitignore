@@ -1,9 +1,5 @@
-/objects/
-/release_assets/
-/downloads/
-/verification.local.json
+objects/
+release_assets/
+downloads/
 __pycache__/
-*.pyc
 .DS_Store
-._*
-*.log
