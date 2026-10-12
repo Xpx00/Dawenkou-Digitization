@@ -16,5 +16,7 @@
   "new_self_intersection_or_hidden_surface_audit": false,
   "data_bytes": 1195553785,
   "historical_topology_checks": "Bound to source hashes in metadata/model_validation.json; not rerun by this release",
-  "license": "CC-BY-NC-4.0"
+  "license": "CC-BY-NC-4.0",
+  "download_extract_model_roundtrip_verified": true,
+  "model_roundtrip_files_verified": 123
 }
