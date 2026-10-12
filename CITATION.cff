@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this versioned dataset and retain its CC BY-NC 4.0 attribution."
+type: dataset
+title: "Dawenkou Digitization: Curated Watertight 41"
+version: 1.0.0
+authors:
+  - name: "Xpx00"
+    website: "https://github.com/Xpx00"
+repository-code: "https://github.com/Xpx00/Dawenkou-Digitization"
+url: "https://github.com/Xpx00/Dawenkou-Digitization/releases/tag/v1.0.0"
+license: CC-BY-NC-4.0
+abstract: "41 manually reviewed colored watertight artifact models with 4620 registered input images, foreground masks and original sparse COLMAP calibration. Hidden surfaces are inferred completion, not independent geometric ground truth."
+keywords:
+  - cultural heritage
+  - Dawenkou
+  - multiview reconstruction
+  - watertight mesh
