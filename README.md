@@ -1,6 +1,6 @@
 # Dawenkou Digitization 41
 
-41 colored 3D models of Dawenkou artifacts: 40 pottery objects and one stone artifact. The dataset includes 4,620 multiview images, foreground masks and COLMAP reconstructions.
+3D meshes of Dawenkou-heritages. The dataset includes 4,620 multiview images, foreground masks and COLMAP reconstructions.
 
 ## Download
 
